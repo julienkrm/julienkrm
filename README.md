@@ -1,12 +1,13 @@
 ### Hi there 👋
+I am Julien, from France. 
+
+🌱 I’m currently learning Web Development using different ressources : The Odin Project, Open Classrooms, and freecode camp.
 
 <!--
 **julienkrm/julienkrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am Julien, from France. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning Web Development using different ressources : The Odin Project, Open Classrooms, and freecode camp.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
